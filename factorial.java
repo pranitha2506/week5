@@ -10,6 +10,6 @@ public class factorial{
         public static void main(String[] args){
             int number=5;
             long factorial=compute(number);
-            System.out.println("Factorial of "+number+ "is:"+factorial)
+            System.out.println("Factorial of "+number+ "is:"+factorial);
         }
     }
