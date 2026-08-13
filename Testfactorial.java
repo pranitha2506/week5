@@ -1,4 +1,4 @@
-public class testfactorial {
+public class Testfactorial {
     public static void main(String[] args) {
         try{
             if(factorial.compute(5)!=120){
