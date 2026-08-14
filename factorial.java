@@ -8,7 +8,7 @@ public class factorial{
             return result;
         }
         public static void main(String[] args){
-            int number=5;
+            int number=9;
             long factorial=compute(number);
             System.out.println("Factorial of "+number+"is: "+factorial);
         }
